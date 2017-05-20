@@ -35,3 +35,24 @@
 .index2 h2{
 	background-color: crimson;
 }
+
+/*Estilos index3*/
+.index3{
+	text-align: center;
+}
+
+.index3 h1, .index3 h2{
+	display: inline;
+    padding: 10px;
+	font-weight: normal;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.index3 h1{
+	background-color: yellow;
+}
+
+.index3 h2{
+	background-color: crimson;
+}
