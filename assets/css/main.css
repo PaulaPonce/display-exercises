@@ -74,3 +74,33 @@
 .index4 h2{
 	background-color: crimson;
 }
+
+/*Estilos index5*/
+.index5{
+	color: #C6C6C9;
+}
+
+.index5 span{
+	background-color: #5A1A5A;
+	border: 5px solid #29001B;
+	padding: 10px;
+	margin: 5px;
+	text-align: center;
+	width: 50px;
+	height: 50px;
+}
+
+.index5 .uno span{
+	display: block;
+}
+
+.index5 .section3{
+	background-color: #715554;
+	width: 280px;
+	margin-left: 5px;
+	padding: 10px 10px;
+}
+
+.index5 .tres span, .index5 .dos span{
+	display:inline-block;
+}
