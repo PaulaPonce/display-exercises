@@ -17,3 +17,21 @@
 .index1 h2{
 	background-color: crimson;
 }
+
+/*Estilos index2*/
+.index2 h1, .index2 h2{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    padding: 10px 10px 40px 10px;
+	font-weight: normal;
+	width: 235px;
+}
+
+.index2 h1{
+	background-color: yellow;
+}
+
+.index2 h2{
+	background-color: crimson;
+}
